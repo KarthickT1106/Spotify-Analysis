@@ -52,13 +52,12 @@ After the data is inserted, various SQL queries can be written to explore and an
  4. Find tracks where the energy to liveness ratio is greater than 1.2.
  5. calculate the cumulative sum of likes for tracks ordered by the number of views , using window function.
 
-## Technology Stack[Uploading spotify_analysis.sql…]()
+## Technology Stack
 
 - **Database**: PostgreSQL
 - **SQL Queries**: DDL, DML, Aggregations, Joins, Subqueries, Window Functions
 - **Tools**: pgAdmin 4 (or any SQL editor), PostgreSQL (via Homebrew, Docker, or direct installation)
 
-## An
 
 
 
